@@ -1,0 +1,1 @@
+import{_ as e,c as t,t as r,S as s,o as a}from"./BZHkQ8Og.js";const n={};function c(o,_){return a(),t("div",null,"Post "+r((o._.provides[s]||o.$route).params.id)+" not found",1)}const d=e(n,[["render",c]]);export{d as default};
